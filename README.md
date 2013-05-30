@@ -3,4 +3,4 @@ antigate
 
 Antigate Client for Java
 
-Client for Coptcha recognizing service http://antigate.com/
+Simple client for Captcha recognizing service http://antigate.com/
